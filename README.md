@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/Apress/make-your-own-python-text-adventure)](https://repl.it/github/Apress/make-your-own-python-text-adventure)
 # Apress Source Code
 
 This repository accompanies [*Make Your Own Python Text Adventure*](http://www.apress.com/9781484232309) by Phillip Johnson (Apress, 2018).
